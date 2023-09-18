@@ -1,1 +1,1 @@
-# Ad-Categorization-with-Naïve-Bayes
+# Ad-Categorization-using-Naïve-Bayes
